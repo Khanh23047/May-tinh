@@ -1,3 +1,6 @@
+check = check_key_api(key)
+check = check_key_vip(key)
+
 import os
 def cong(a, b):
     return a + b
